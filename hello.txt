@@ -8,3 +8,4 @@ remote repo modify
 modify by zhouppp
 modify by zhouppp1
 zhouppp2
+use ssh pull
